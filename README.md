@@ -1,6 +1,7 @@
 # Sleeper — Local-First Agent Assurance Lab
 
 [![CI](https://github.com/humintloop/Sleeper/actions/workflows/ci.yml/badge.svg)](https://github.com/humintloop/Sleeper/actions/workflows/ci.yml)
+[![Sleeper on StartupScores](https://startupscores.com/badge/sleeper.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/sleeper)
 
 > Run agents against adversarial content in the browser. Watch the tool calls. Map the control gap.
 
